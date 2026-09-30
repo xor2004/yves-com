@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Yves Intreeduction
+# Yves Introduction
 This is the GitHub introduction 
 
 ## Introduction 
